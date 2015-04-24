@@ -1,9 +1,0 @@
-applications:
-- disk_quota: 1024M
-  host: adfasdfasdfadsfasdfa
-  name: adfasdfasdfadsfasdfa
-  path: .
-  domain: mybluemix.net
-  instances: 1
-  memory: 128M
-  buildpack: nodejs_buildpack
